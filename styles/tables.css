@@ -34,3 +34,7 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+
+.nameCol {
+  border: 2px solid black;
+}
